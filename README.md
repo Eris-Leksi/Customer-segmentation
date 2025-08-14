@@ -3,7 +3,7 @@
 **Course:** Artificial Intelligence Algorithms & Mathematics  
 **Assignment:** Customer Segmentation for E-commerce Personalization  
 **Notebook:** `erisScript.ipynb`  
-
+**Dataset:** : 'https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store?resource=download'
 ---
 
 ## 🎯 Overview
